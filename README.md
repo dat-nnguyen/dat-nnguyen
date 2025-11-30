@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dat 👋
 
-<!--
-**dat-nnguyen/dat-nnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I am
+I'm a software engineer passionate about building scalable, efficient, and maintainable systems. I enjoy solving challenging problems and working on real-world software applications.
 
-Here are some ideas to get you started:
+## What I'm currently working on
+- Developing backend systems and algorithm-driven projects
+- Building AI/ML prototypes and optimization tools
+- Improving software architecture and code performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+- **Languages**: Java, C++, SQL
+- **Frameworks**: JavaFX, SDL2, SFML, STL
+- **AI & Algorithms**: Neural Networks, Genetic Algorithms, Evolutionary Computation
+- **Other**: Git, DataGrip, Scene Builder, MySQL, JUnit, Mockito
+
+
+## How to reach me
+- Email: datnguyen3142@gmail.com  
+- GitHub: [https://github.com/dat-nnguyen](https://github.com/dat-nnguyen)  
