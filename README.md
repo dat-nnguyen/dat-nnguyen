@@ -1,7 +1,9 @@
 # Hi, I'm Dat 👋
 
 ## 👤 Who I am
-I'm a software engineer passionate about building scalable, efficient, and maintainable systems. I enjoy solving challenging problems and working on real-world software applications.
+I'm a software engineer passionate about building scalable, efficient, and maintainable systems.
+
+I enjoy solving challenging problems and working on real-world software applications.
 
 ## 💻 What I'm currently working on
 - Developing backend systems and algorithm-driven projects
