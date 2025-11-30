@@ -16,5 +16,5 @@ I'm a software engineer passionate about building scalable, efficient, and maint
 
 
 ## 📫 How to reach me
-- ✉️ Email: datnguyen3142@gmail.com  
-- 🔗 GitHub: [https://github.com/dat-nnguyen](https://github.com/dat-nnguyen)  
+- ✉️ **Email**: datnguyen3142@gmail.com  
+- 🔗 **GitHub**: [https://github.com/dat-nnguyen](https://github.com/dat-nnguyen)  
