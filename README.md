@@ -11,7 +11,7 @@ I enjoy solving challenging problems and working on real-world software applicat
 - Improving software architecture and code performance
 
 ## 🛠 Tools I use
-- **Languages**: Java, C++, SQL
+- **Languages**: Java, Python, C++, SQL
 - **Frameworks**: JavaFX, SDL2, SFML, STL
 - **AI & Algorithms**: Neural Networks, Genetic Algorithms, Evolutionary Computation
 - **Other**: Git, DataGrip, Scene Builder, MySQL, JUnit, Mockito
