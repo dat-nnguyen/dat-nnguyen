@@ -14,7 +14,7 @@ I enjoy solving challenging problems and working on real-world software applicat
 - **Languages**: Java, Python, C++, SQL
 - **Frameworks**: JavaFX, SDL2, SFML, STL
 - **AI & Algorithms**: Neural Networks, Genetic Algorithms, Evolutionary Computation
-- **Other**: Git, DataGrip, Scene Builder, MySQL, JUnit, Mockito
+- **Other**: Git, MySQL, JUnit, Mockito
 
 
 ## 📫 How to reach me
