@@ -11,11 +11,10 @@ I enjoy solving challenging problems and working on real-world software applicat
 - Improving software architecture and code performance
 
 ## 🛠 Tools I use
-- **Languages**: Java, Python, C++, SQL
-- **Frameworks**: JavaFX, SDL2, SFML, STL
+- **Languages**: Java, JavaScript, HTML, CSS, C++, SQL.
+- **Frameworks**: Node.js, React, JUnit, Mockito.
 - **AI & Algorithms**: Neural Networks, Genetic Algorithms, Evolutionary Computation
-- **Other**: Git, MySQL, JUnit, Mockito
-
+- **Other**: Git, MySQL, Maven, Docker
 
 ## 📫 How to reach me
 - ✉️ **Email**: datnguyen3142@gmail.com  
