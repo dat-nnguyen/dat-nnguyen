@@ -7,15 +7,13 @@ I enjoy solving challenging problems and working on real-world software applicat
 
 ## 💻 What I'm currently working on
 - Developing backend systems and algorithm-driven projects
-- Building AI/ML prototypes and optimization tools
 - Improving software architecture and code performance
 
 ## 🛠 Tools I use
 - **Languages**: Java, JavaScript, HTML, CSS, C++, SQL.
 - **Frameworks**: Node.js, React, JUnit, Mockito.
-- **AI & Algorithms**: Neural Networks, Genetic Algorithms, Evolutionary Computation
 - **Other**: Git, MySQL, Maven, Docker
 
 ## 📫 How to reach me
-- ✉️ **Email**: datnguyen3142@gmail.com  
+- ✉️ **Email**: tuandat.nguyen.dev@gmail.com  
 - 🔗 **GitHub**: [https://github.com/dat-nnguyen](https://github.com/dat-nnguyen)  
