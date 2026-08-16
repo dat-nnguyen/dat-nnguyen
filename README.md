@@ -3,7 +3,6 @@
 <p align="left">
   <a href="https://dat-nnguyen.github.io/"><img src="https://img.shields.io/badge/Portfolio-dat--nnguyen.github.io-0052CC?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/dat-nguyen-945447257/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fdat--nguyen--945447257-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/dat-nnguyen"><img src="https://img.shields.io/badge/LeetCode-dat--nnguyen-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <img src="https://komarev.com/ghpvc/?username=dat-nnguyen&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views"/>
 </p>
 
@@ -74,11 +73,21 @@
 
 ### 📌 Core Engineering & Repositories
 
-* **⚡ Distributed Services & Real-Time Backend**  
-  High-throughput Node.js/Express service architecture with JWT authentication, Redis Pub/Sub, and connection pooling.
-* **⚡ High-Performance Caching & Data Layer**  
-  Complex relational database modeling in PostgreSQL, index benchmarking, and multi-tier in-memory caching.
-* **🌐 Production Full-Stack Applications**  
-  Type-safe, end-to-end applications built with Next.js/React, TypeScript, and modern state architectures.
-* **🧩 Scalability & Algorithmic Systems**  
-  Deep dives into core data structures, concurrency handling, rate limiters, and fault-tolerant system design patterns.
+* **⚡ Real-Time API & Event-Driven Backend**
+  * Built asynchronous REST and WebSocket services using **Node.js**, **Express**, and **Redis Pub/Sub**.
+  * Handled auth workflows with JWT/cookies, rate limiting middleware, and structured error handling.
+  * Containerized services with **Docker** for clean local setup and deployment.
+
+* **⚡ Relational Data Modeling & Caching**
+  * Designed normalized relational schemas in **PostgreSQL** with indexed queries and migrations.
+  * Implemented Redis cache-aside patterns to reduce database read load on frequent endpoints.
+  * Managed database transactions and connection pools to handle concurrent operations cleanly.
+
+* **🌐 Full-Stack Applications**
+  * Developed full-stack web applications using **Next.js / React**, **TypeScript**, and **Tailwind CSS**.
+  * Built responsive UIs with server-side rendering, client state management, and end-to-end type safety.
+  * Connected frontends to REST APIs with validation and optimistic UI updates.
+
+* **🧩 Algorithms & Core Systems**
+  * Implemented core data structures, caching policies (LRU), and algorithm solutions in **Java**, **C++**, and **TypeScript**.
+  * Explored concurrency models, event loops, and asynchronous patterns across different runtimes.
