@@ -14,7 +14,7 @@
 ### 🔥 Dynamic Activity & Streak Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dat-nnguyen&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=dat-nnguyen&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="100%" alt="GitHub Streak Stats" />
 </p>
 
 ---
