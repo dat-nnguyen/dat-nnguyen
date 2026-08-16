@@ -3,41 +3,48 @@
 <p align="left">
   <a href="https://dat-nnguyen.github.io/"><img src="https://img.shields.io/badge/Portfolio-dat--nnguyen.github.io-0052CC?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/dat-nguyen-945447257/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fdat--nguyen--945447257-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/dat-nnguyen?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24-108548?style=flat-square&logo=github&logoColor=white" alt="Repos"/></a>
   <img src="https://komarev.com/ghpvc/?username=dat-nnguyen&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views"/>
 </p>
 
-> 🚀 **Backend Software Engineer & Systems Developer**  
-> *"I love creating things — from game engines to AI experiments. Always learning, always building, always improving my craft."*
+> 🚀 **Software Engineer**  
+> *Building high-performance, fault-tolerant distributed systems, scalable full-stack architectures, and low-latency data pipelines.*
 
 ---
 
-### 🔥 GitHub Streak & Activity Metrics
+### 🔥 Live GitHub Activity & Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dat-nnguyen&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak Stats" />
 </p>
 
-| Metric | Status / Count | Highlights & Recognition |
-| :--- | :--- | :--- |
-| 📦 **Public Repositories** | `24 Repos` | Systems, backend architecture, algorithm labs |
-| 🦈 **Pull Shark** | `x2 Tier` | Active pull request contributions & code reviews |
-| ⚡ **Quickdraw** | `Achieved` | Rapid issue closing & responsiveness |
-| 🎯 **Pair Extraordinaire** | `Achieved` | High-frequency collaborative commits |
-| 🎲 **YOLO** | `Achieved` | Direct deployment & branch merged |
-| 🧠 **Core Specialty** | `Java & C++` | Concurrency, distributed services, low-latency code |
+### 📊 Live GitHub Metrics
+
+<p align="left">
+  <img src="https://img.shields.io/github/repo-size/dat-nnguyen/dat-nnguyen?style=flat-square&logo=github&label=Profile%20Sync" alt="Sync Status"/>
+  <img src="https://img.shields.io/github/followers/dat-nnguyen?style=flat-square&logo=github&color=1877F2" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/dat-nnguyen?style=flat-square&logo=github&color=F59E0B" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/PRs-Open%20Source-success?style=flat-square&logo=gitkraken" alt="PRs"/>
+</p>
+
+| Core Pillar | Technical Focus & Engineering Standards |
+| :--- | :--- |
+| **System Scalability** | Distributed caching layers (Redis), event queues, asynchronous processing, and horizontal scaling. |
+| **Database Design** | PostgreSQL schema normalization, index benchmarking, connection pooling, and ACID compliance. |
+| **API Architecture** | Idempotent RESTful interfaces, WebSocket connections, rate limiting, and centralized error handling. |
+| **Code Quality & CI/CD** | Automated GitHub Actions pipelines, containerization (Docker), strict TypeScript types, and comprehensive unit tests. |
 
 ---
 
-### ⚡ Tech Stack & Architecture Skills
+### ⚡ Tech Stack & Core Competencies
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | `Java` `C++` `C` `Python` `SQL` `Bash` |
-| **Backend & Core** | `Spring Boot` `Spring Security` `Hibernate / JPA` `RESTful APIs` |
-| **Databases & Cache** | `PostgreSQL` `MySQL` `Redis` |
-| **Systems & Architecture** | `Game Engines Architecture` `AI/ML Experiments` `Concurrency & Multithreading` `OOP` |
-| **DevOps & Tooling** | `Docker` `Git / GitHub Actions` `Linux` `Maven` `Postman` |
+| **Languages** | `JavaScript (ES6+)` `TypeScript` `Java` `C++` `SQL` `Bash` |
+| **Backend & Runtime** | `Node.js` `Express.js` `REST APIs` `GraphQL` `WebSockets` |
+| **Frontend & Full-Stack** | `React.js` `Next.js` `Tailwind CSS` `Redux / Zustand` |
+| **Data Stores & Caching** | `PostgreSQL` `Redis` `MySQL` `Prisma / TypeORM` |
+| **System Design & Scale** | `High Availability & Fault Tolerance` `Load Balancing` `Event-Driven Architecture` `Microservices` |
+| **DevOps & Tooling** | `Docker` `Git / GitHub Actions` `CI/CD Pipelines` `Postman` |
 
 ---
 
@@ -55,11 +62,11 @@
 
 ### 📌 Core Engineering & Repositories
 
-* **⚡ Backend Microservices & API Architecture**  
-  High-throughput services built with Spring Boot, Redis caching, and connection pooling.
-* **🎮 Systems & Game Engine Experiments**  
-  Low-level memory management, game loop architecture, and rendering patterns in C++ / Java.
-* **🤖 AI Experiments & Automation**  
-  Algorithmic pipelines, data processing tools, and practical machine learning prototypes.
-* **🧩 Data Structures & Algorithmic Optimization**  
-  Performance benchmarks, concurrency primitives, and competitive programming implementations.
+* **⚡ Distributed Services & Real-Time Backend**  
+  High-throughput Node.js/Express service architecture with JWT authentication, Redis Pub/Sub, and connection pooling.
+* **⚡ High-Performance Caching & Data Layer**  
+  Complex relational database modeling in PostgreSQL, index benchmarking, and multi-tier in-memory caching.
+* **🌐 Production Full-Stack Applications**  
+  Type-safe, end-to-end applications built with Next.js/React, TypeScript, and modern state architectures.
+* **🧩 Scalability & Algorithmic Systems**  
+  Deep dives into core data structures, concurrency handling, rate limiters, and fault-tolerant system design patterns.
