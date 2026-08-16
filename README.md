@@ -12,18 +12,16 @@
 
 ---
 
-### 🔥 GitHub Streak & Activity Metrics
+### 📊 GitHub Activity & Metrics Dashboard
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dat-nnguyen&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak Stats" />
-</p>
-
-| Metric | Highlights |
-| :--- | :--- |
-| **Public Repositories** | 24 projects across systems, backend, and algorithms |
-| **Community Badges** | 🦈 **Pull Shark (x2)** • ⚡ **Quickdraw** • 🎯 **Pair Extraordinaire** • 🎲 **YOLO** |
-| **Engineering Focus** | High-concurrency Java backend, distributed caching, memory-efficient systems |
-| **Status** | 🎯 Focusing & building daily |
+| Metric | Status / Count | Highlights & Recognition |
+| :--- | :--- | :--- |
+| 📦 **Public Repositories** | `24 Repos` | Systems, backend architecture, algorithm labs |
+| 🦈 **Pull Shark** | `x2 Tier` | Active pull request contributions & code reviews |
+| ⚡ **Quickdraw** | `Achieved` | Rapid issue closing & responsiveness |
+| 🎯 **Pair Extraordinaire** | `Achieved` | High-frequency collaborative commits |
+| 🎲 **YOLO** | `Achieved` | Direct deployment & branch merged |
+| 🧠 **Core Specialty** | `Java & C++` | Concurrency, distributed services, low-latency code |
 
 ---
 
