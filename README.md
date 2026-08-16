@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=dat-nnguyen&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views"/>
 </p>
 
-> 🚀 **Software Engineer**  
+> 🚀 **Undergraduate Software Engineer**  
 > *Building high-performance, fault-tolerant distributed systems, scalable full-stack architectures, and low-latency data pipelines.*
 
 ---
