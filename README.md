@@ -11,6 +11,14 @@
 
 ---
 
+### 🏆 GitHub Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dat-nnguyen&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### ⚡ Tech Stack
 
 | Category | Technologies & Tools |
@@ -22,15 +30,10 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📈 Activity & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dat-nnguyen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat-nnguyen&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dat-nnguyen&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dat-nnguyen&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -47,7 +50,7 @@
 
 ---
 
-### 🛠️ Featured Architecture Projects
+### 🛠️ Featured Projects
 
 * **⚡ High-Throughput Event Processor**
   Distributed backend utilizing **Spring Boot** & **Redis** pub/sub for concurrent, asynchronous job queues.
