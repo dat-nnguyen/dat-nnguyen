@@ -7,8 +7,23 @@
   <img src="https://komarev.com/ghpvc/?username=dat-nnguyen&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views"/>
 </p>
 
-> 📍 *Hanoi, Vietnam* • **Backend Engineer & Systems Enthusiast**  
+> 🚀 **Backend Software Engineer & Systems Developer**  
 > *"I love creating things — from game engines to AI experiments. Always learning, always building, always improving my craft."*
+
+---
+
+### 🔥 GitHub Streak & Activity Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dat-nnguyen&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak Stats" />
+</p>
+
+| Metric | Highlights |
+| :--- | :--- |
+| **Public Repositories** | 24 projects across systems, backend, and algorithms |
+| **Community Badges** | 🦈 **Pull Shark (x2)** • ⚡ **Quickdraw** • 🎯 **Pair Extraordinaire** • 🎲 **YOLO** |
+| **Engineering Focus** | High-concurrency Java backend, distributed caching, memory-efficient systems |
+| **Status** | 🎯 Focusing & building daily |
 
 ---
 
@@ -19,19 +34,8 @@
 | **Languages** | `Java` `C++` `C` `Python` `SQL` `Bash` |
 | **Backend & Core** | `Spring Boot` `Spring Security` `Hibernate / JPA` `RESTful APIs` |
 | **Databases & Cache** | `PostgreSQL` `MySQL` `Redis` |
-| **Systems & AI** | `Game Engines Architecture` `AI/ML Experiments` `Concurrency` `OOP` |
+| **Systems & Architecture** | `Game Engines Architecture` `AI/ML Experiments` `Concurrency & Multithreading` `OOP` |
 | **DevOps & Tooling** | `Docker` `Git / GitHub Actions` `Linux` `Maven` `Postman` |
-
----
-
-### 📊 Engineering Stats & Activity
-
-| Metric | Detail |
-| :--- | :--- |
-| **Location** | Hanoi, Vietnam |
-| **Total Public Repositories** | 24 |
-| **Community Achievements** | 🦈 Pull Shark (x2) • ⚡ Quickdraw • 🎯 Pair Extraordinaire • 🎲 YOLO |
-| **Current Focus** | Scalable Java microservices, concurrency models & distributed systems |
 
 ---
 
@@ -47,13 +51,13 @@
 
 ---
 
-### 📌 Core Projects & Engineering Areas
+### 📌 Core Engineering & Repositories
 
 * **⚡ Backend Microservices & API Architecture**  
   High-throughput services built with Spring Boot, Redis caching, and connection pooling.
 * **🎮 Systems & Game Engine Experiments**  
   Low-level memory management, game loop architecture, and rendering patterns in C++ / Java.
-* **🤖 AI Experiments & Tooling**  
-  Algorithms, automation scripts, and practical model integrations.
-* **🧩 Data Structures & Algorithms**  
-  Algorithmic challenge solutions, concurrency primitives, and optimization benchmarks.
+* **🤖 AI Experiments & Automation**  
+  Algorithmic pipelines, data processing tools, and practical machine learning prototypes.
+* **🧩 Data Structures & Algorithmic Optimization**  
+  Performance benchmarks, concurrency primitives, and competitive programming implementations.
