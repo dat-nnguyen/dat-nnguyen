@@ -14,9 +14,8 @@
 ### 🔥 Dynamic Activity & Streak Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dat-nnguyen&background=0b0f19&border=1e293b&border_radius=10&ring=818cf8&fire=a855f7&currStreakNum=ffffff&sideNums=f1f5f9&currStreakLabel=a855f7&sideLabels=94a3b8&dates=64748b" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=dat-nnguyen&hide_border=true&background=00000000&ring=FF4500&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=FFA500&dates=94A3B8" width="100%" alt="GitHub Streak Stats" />
 </p>
-
 ---
 
 ### 📊 Real-Time Engineering Stats & Counters
