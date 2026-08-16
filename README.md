@@ -12,7 +12,11 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics Dashboard
+### 🔥 GitHub Streak & Activity Metrics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dat-nnguyen&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak Stats" />
+</p>
 
 | Metric | Status / Count | Highlights & Recognition |
 | :--- | :--- | :--- |
