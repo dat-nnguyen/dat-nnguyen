@@ -2,11 +2,11 @@ name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 3 * * *" # Run every day at 03:00
+    - cron: "0 3 * * *" # Run every day at 03:00 UTC
   push:
     paths:
-      - ".github/workflows/streak-stats.yml" # Run any time this file is modified
-  workflow_dispatch: # Run manually from the Actions tab
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,7 +20,20 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+          # Custom fire/orange glow theme with transparent background and sleek rounded borders
+          options: >-
+            user=${{ github.repository_owner }}&
+            hide_border=true&
+            background=00000000&
+            border_radius=12&
+            ring=FF4500&
+            fire=FF4500&
+            currStreakNum=FFFFFF&
+            sideNums=FFFFFF&
+            currStreakLabel=FF6B35&
+            sideLabels=FFA500&
+            dates=94A3B8&
+            card_width=520
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
