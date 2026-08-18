@@ -14,8 +14,10 @@
 ### 🔥 Dynamic Activity & Streak Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dat-nnguyen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=dat-nnguyen&hide_border=true&background=00000000&ring=FF4500&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=FFA500&dates=94A3B8" width="100%" alt="GitHub Streak Stats" />
 </p>
+---
+it is failed to retrieve api
 ---
 
 ### 📊 Real-Time Engineering Stats & Counters
