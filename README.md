@@ -13,7 +13,9 @@
 
 ### 🔥 Dynamic Activity & Streak Metrics
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="profile/streak.svg?v=1" alt="GitHub Streak Stats" width="100%" />
+</p>
 
 ### 📊 Real-Time Engineering Stats & Counters
 
