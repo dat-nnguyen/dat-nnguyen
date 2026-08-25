@@ -39,8 +39,7 @@
 ### 📈 Activity Trajectory & Commit Frequency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dat-nnguyen&show_icons=true&theme=tokyo-night&hide_border=true" width="49%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat-nnguyen&layout=compact&theme=tokyo-night&hide_border=true" width="49%" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph-inky-three.vercel.app/graph?username=dat-nnguyen&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Commit & Contribution Graph" />
 </p>
 
 ---
