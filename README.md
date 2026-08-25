@@ -14,7 +14,7 @@
 ### 🔥 Dynamic Activity & Streak Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-inky-three.vercel.app/graph?username=dat-nnguyen&bg_color=0D1117&color=FFA500&line=FF4500&point=FF6B35&area_color=FF4500&hide_border=true&area=true&radius=8" width="100%" alt="Commit & Contribution Graph" />
+  <img src="profile/streak.svg?v=1" alt="GitHub Streak Stats" width="100%" />
 </p>
 
 ### 📊 Real-Time Engineering Stats & Counters
@@ -39,7 +39,7 @@
 ### 📈 Activity Trajectory & Commit Frequency
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-inky-three.vercel.app/graph?username=dat-nnguyen&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Commit & Contribution Graph" />
+  <img src="https://github-readme-activity-graph-inky-three.vercel.app/graph?username=dat-nnguyen&bg_color=0D1117&color=FFA500&line=FF4500&point=FF6B35&area_color=FF4500&hide_border=true&area=true&radius=8" width="100%" alt="Commit & Contribution Graph" />
 </p>
 
 ---
