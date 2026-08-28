@@ -16,9 +16,9 @@
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=dat-nnguyen&theme=github-green-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      src="https://streak-stats.demolab.com?user=dat-nnguyen&theme=github-green-purple&background=00000000&hide_border=true&date_format=j%20M%5B%20Y%5D"
       alt="GitHub Streak"
-      width="90%"
+      width="100%"
     />
   </a>
 </p>
@@ -45,7 +45,11 @@
 ### 📈 Activity Trajectory & Commit Frequency
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-inky-three.vercel.app/graph?username=dat-nnguyen&bg_color=0D1117&color=FFA500&line=FF4500&point=FF6B35&area_color=FF4500&hide_border=true&area=true&radius=8" width="100%" alt="Commit & Contribution Graph" />
+  <img 
+    src="https://github-readme-activity-graph-inky-three.vercel.app/graph?username=dat-nnguyen&bg_color=00000000&color=2EA043&line=8957E5&point=2EA043&area_color=8957E5&hide_border=true&area=true&radius=8" 
+    width="100%" 
+    alt="Commit & Contribution Graph" 
+  />
 </p>
 
 ---
