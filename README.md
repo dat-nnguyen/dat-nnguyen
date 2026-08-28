@@ -46,7 +46,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph-inky-three.vercel.app/graph?username=dat-nnguyen&bg_color=00000000&color=2EB85C&line=7952CC&point=2EB85C&area_color=7952CC&hide_border=true&area=true&radius=8" 
+    src="https://github-readme-activity-graph-inky-three.vercel.app/graph?username=dat-nnguyen&bg_color=00000000&color=00FF1F&line=8B1484&point=00FF1F&area_color=8B1484&hide_border=true&area=true&radius=8" 
     width="100%" 
     alt="Commit & Contribution Graph" 
   />
