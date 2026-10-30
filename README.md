@@ -1,5 +1,4 @@
-# 👨‍💻 Dat Tuan Nguyen (dat-nnguyen)
-# Currently a SWE intern@zen8labs
+# 👨‍💻 Dat Tuan Nguyen (dat-nnguyen) - SWE Intern@zen8labs
 
 <p align="left">
   <a href="https://dat-nnguyen.github.io/"><img src="https://img.shields.io/badge/Portfolio-dat--nnguyen.github.io-0052CC?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
