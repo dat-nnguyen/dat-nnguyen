@@ -7,6 +7,7 @@
 </p>
 
 > 🚀 **Undergraduate Software Engineer** - SWE Intern@zen8labs
+> 
 > *Building high-performance, fault-tolerant distributed systems, scalable full-stack architectures, and low-latency data pipelines.*
 
 ---
