@@ -1,4 +1,4 @@
-# 👨‍💻 Dat Tuan Nguyen (dat-nnguyen) - SWE Intern@zen8labs
+# 👨‍💻 Dat Tuan Nguyen (dat-nnguyen)
 
 <p align="left">
   <a href="https://dat-nnguyen.github.io/"><img src="https://img.shields.io/badge/Portfolio-dat--nnguyen.github.io-0052CC?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=dat-nnguyen&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views"/>
 </p>
 
-> 🚀 **Undergraduate Software Engineer**  
+> 🚀 **Undergraduate Software Engineer** - SWE Intern@zen8labs
 > *Building high-performance, fault-tolerant distributed systems, scalable full-stack architectures, and low-latency data pipelines.*
 
 ---
