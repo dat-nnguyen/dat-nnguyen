@@ -61,8 +61,8 @@
 | :--- | :--- |
 | **Languages** | `JavaScript (ES6+)` `TypeScript` `Java` `C++` `SQL` `Bash` |
 | **Backend & Runtime** | `Node.js` `Express.js` `REST APIs` `GraphQL` `WebSockets` |
-| **Frontend & Full-Stack** | `React.js` `Next.js` `Tailwind CSS` `Redux / Zustand` |
-| **Data Stores & Caching** | `PostgreSQL` `Redis` `MySQL` `Prisma / TypeORM` |
+| **Frontend & Full-Stack** | `React.js` `Next.js` |
+| **Data Stores & Caching** | `PostgreSQL` `Redis` `MySQL` `Prisma` |
 | **System Design & Scale** | `High Availability & Fault Tolerance` `Load Balancing` `Event-Driven Architecture` `Microservices` |
 | **DevOps & Tooling** | `Docker` `Git / GitHub Actions` `CI/CD Pipelines` `Postman` |
 
